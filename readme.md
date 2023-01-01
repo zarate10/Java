@@ -2,3 +2,5 @@
 
 ## Módulo 1 - Fundamentos de Java
 - Conozca la historia y filosofía de Java. Comprenda la distribución de Java a Internet. Comprenda la importancia del código de bytes. Conozca la terminología de Java. Comprenda los principios fundamentales de la programación orientada a objetos. Cree, compile y ejecute un programa simple de Java. Use variables. Use las instrucciones del control if y for. Cree bloques de código. Comprenda la manera en la que se posicionan, sangran y terminan las instrucciones. Conozca las palabras clave de Java. Comprenda las reglas para los identificadores de Java.
+## Módulo 2 - Introducción a los tipos de datos y los operadores
+- Conozca los tipos primitivos de Java. Use literales. Inicialice variables. Conozca el alcance de las reglas de variables dentro de un método. Use los operadores aritméticos. Use los operadores relacionales y lógicos. Comprenda los operadores de asignación. Use asignaciones de métodos abreviados. Comprenda la conversión de tipos en asignaciones. Moldee tipos incompatibles. Comprenda la conversión de tipos en expresiones.
