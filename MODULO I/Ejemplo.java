@@ -12,7 +12,7 @@ class Ejemplo {
 
         public -> especificador de acceso: determina la manera en la que otras partes del programa pueden acceder a los miembros de la clase. 
         static -> permite que main sea llamado por el intérprete de Java antes de que se instancie un objeto de la clase "Ejemplo". 
-        void -> simplemente indica que el método (función) no retornará ningún valor.
+        void -> simplemente indica que el método main no retornará ningún valor.
     */
         System.out.println("Java dirige Web");
         /* 

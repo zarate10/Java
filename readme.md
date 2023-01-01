@@ -1,0 +1,4 @@
+# Fundamentos de Java. 3ra edición. Herbert Schildt 
+
+## Módulo 1 - Fundamentos de Java
+- Conozca la historia y filosofía de Java. Comprenda la distribución de Java a Internet. Comprenda la importancia del código de bytes. Conozca la terminología de Java. Comprenda los principios fundamentales de la programación orientada a objetos. Cree, compile y ejecute un programa simple de Java. Use variables. Use las instrucciones del control if y for. Cree bloques de código. Comprenda la manera en la que se posicionan, sangran y terminan las instrucciones. Conozca las palabras clave de Java. Comprenda las reglas para los identificadores de Java.
